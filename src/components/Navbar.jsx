@@ -18,6 +18,9 @@ const Navbar = () => {
                 AniSugoi
             </Typography>
       </Link>
+      <SearchBar>
+        
+      </SearchBar>
     </Stack>
   )
   
